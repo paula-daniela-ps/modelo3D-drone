@@ -1,3 +1,0 @@
-$fn = 50;
-
-cube([60,40,10], center=true);
