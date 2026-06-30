@@ -88,4 +88,5 @@ O YBYTU X-1 foi concebido para:
 
 ## Autores
 
-Criado apenas para fins educacionais da Universidade Federal do Oeste do Pará (UFOPA), Curso de Bacharelado em Sistemas de Informação.
+Criado apenas para fins educacionais na Disciplina de Computação Gráfica.
+Universidade Federal do Oeste do Pará (UFOPA), Curso de Bacharelado em Sistemas de Informação.
