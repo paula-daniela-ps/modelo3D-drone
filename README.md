@@ -86,10 +86,6 @@ O YBYTU X-1 foi concebido para:
 
 ---
 
-## Autor
+## Autores
 
-Vanessa Joana Reis Lima
-
-Universidade Federal do Oeste do Pará (UFOPA)
-
-Curso de Bacharelado em Sistemas de Informação
+Criado apenas para fins educacionais da Universidade Federal do Oeste do Pará (UFOPA), Curso de Bacharelado em Sistemas de Informação.
