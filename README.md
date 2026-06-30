@@ -1,50 +1,95 @@
-# Projeto 3D de Drone em OpenSCAD
+# YBYTU X-1 – Drone Biomimético Amazônico
 
-## Descrição
+## Sobre o projeto
 
-Este projeto consiste na criação de um modelo 3D de um drone utilizando a linguagem de modelagem paramétrica OpenSCAD.
+O YBYTU X-1 é um drone conceitual desenvolvido em OpenSCAD como projeto acadêmico.
 
-O objetivo é desenvolver uma representação simplificada de um drone do tipo quadricóptero, composta por corpo central, braços, motores e hélices, permitindo o aprendizado de conceitos básicos de modelagem tridimensional.
+Inspirado na vitória-régia, um dos maiores símbolos da Amazônia, o modelo combina conceitos de biomimética e modelagem paramétrica para representar um drone destinado ao monitoramento ambiental.
+
+O nome **YBYTU** deriva do tupi e significa **vento**, representando o voo e a integração com a natureza amazônica.
+
+---
 
 ## Objetivos
 
-- Aprender os fundamentos do OpenSCAD.
-- Desenvolver modelos 3D utilizando programação.
-- Aplicar transformações geométricas como translação e rotação.
-- Utilizar módulos para reutilização de componentes.
-- Gerar arquivos para visualização e impressão 3D.
+- Desenvolver um drone utilizando OpenSCAD.
+- Aplicar conceitos de modelagem paramétrica.
+- Demonstrar o uso de módulos independentes.
+- Criar um design inspirado na biodiversidade amazônica.
 
-## Tecnologias Utilizadas
+---
+
+## Funcionalidades
+
+- Casco inspirado na vitória-régia.
+- Estrutura modular.
+- Braços aerodinâmicos.
+- Motores brushless.
+- Hélices paramétricas.
+- Sistema de câmera frontal.
+- LEDs de navegação.
+- Logo personalizado.
+- Organização em múltiplos arquivos.
+
+---
+
+## Estrutura do projeto
+
+```
+config.scad
+drone.scad
+casco.scad
+bracos.scad
+motores.scad
+helices.scad
+camera.scad
+detalhes.scad
+```
+
+---
+
+## Tecnologias
 
 - OpenSCAD
-- Visual Studio Code
+- Modelagem Paramétrica
 - Git
 - GitHub
 
+---
 
-## Componentes do Drone
+## Conceitos utilizados
 
-- Corpo central
-- Braços de sustentação
-- Motores
-- Hélices
+- module()
+- translate()
+- rotate()
+- union()
+- difference()
+- hull()
+- polygon()
+- linear_extrude()
+- offset()
+- color()
+- text()
+- for()
 
-## Como Executar
+---
 
-1. Instale o OpenSCAD.
-2. Abra o arquivo `drone.scad`.
-3. Pressione `F5` para visualizar o modelo.
-4. Pressione `F6` para renderizar o modelo final.
-5. Exporte para STL caso deseje utilizar em impressão 3D.
+## Aplicações
 
-## Possíveis Melhorias
+O YBYTU X-1 foi concebido para:
 
-- Adicionar câmera frontal.
-- Criar trem de pouso.
-- Parametrizar dimensões do drone.
-- Melhorar o detalhamento dos motores e hélices.
-- Adicionar cores aos componentes.
+- Monitoramento ambiental
+- Fiscalização de áreas protegidas
+- Mapeamento de rios
+- Apoio a pesquisas científicas
+- Observação da biodiversidade amazônica
 
-## Licença
+---
 
-Projeto desenvolvido para fins educacionais.
+## Autor
+
+Vanessa Joana Reis Lima
+
+Universidade Federal do Oeste do Pará (UFOPA)
+
+Curso de Bacharelado em Sistemas de Informação
