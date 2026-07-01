@@ -1,4 +1,4 @@
-# YBYTU X-1 – Drone Biomimético Amazônico
+# YBYTU X-1 – Drone Amazônico
 
 ## Sobre o projeto
 
